@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Gaegu&family=Gamja+Flower&display=swap');
+body {
+    font-family: 'Gamja Flower', cursive;
+    font-size: 18px;
+}
+
+h3{
+    color: orange;
+}
+
+#tablecolor{
+    background-color: #ffd6aa;
+}
